@@ -6,3 +6,4 @@ This project will be joker to others projects....
 
 Ideas:
 1 - Look for device from bluetooth
+    - To get it, bluetooth must be on
