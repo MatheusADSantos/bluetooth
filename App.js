@@ -53,7 +53,7 @@ const App: () => React$Node = () => {
                 <ReloadInstructions />
               </Text>
             </View>
-            {/* haha ta dando certo*/}
+            {/* TESTANDO ... */}
             <LearnMoreLinks />
 
           </View>
