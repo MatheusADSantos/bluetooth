@@ -53,7 +53,7 @@ const App: () => React$Node = () => {
                 <ReloadInstructions />
               </Text>
             </View>
-            {/* TESTE 16:42*/}
+            {/* TESTE 17:05*/}
             <LearnMoreLinks />
 
           </View>
