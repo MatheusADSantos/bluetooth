@@ -39,23 +39,10 @@ const App: () => React$Node = () => {
             </View>
           )}
           <View style={styles.body}>
-
             <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>Step One</Text>
-              <Text style={styles.sectionDescription}>
-                Edit <Text style={styles.highlight}>App.js</Text> to change this
-                screen and then come back to see your edits.
-              </Text>
+              <Text style={styles.sectionTitle}>BLUEETOTH</Text>
+              <Text style={styles.highlight}>Project to learn more about</Text>
             </View>
-            <View style={styles.sectionContainer}>
-              <Text style={styles.sectionTitle}>See Your Changes</Text>
-              <Text style={styles.sectionDescription}>
-                <ReloadInstructions />
-              </Text>
-            </View>
-            {/* TESTE 17:05*/}
-            <LearnMoreLinks />
-
           </View>
         </ScrollView>
       </SafeAreaView>
