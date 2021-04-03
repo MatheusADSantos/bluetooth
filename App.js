@@ -48,7 +48,7 @@ const App: () => React$Node = () => {
       </SafeAreaView>
     </>
   );
-};
+}; 
 
 const styles = StyleSheet.create({
   scrollView: {
